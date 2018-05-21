@@ -1,3 +1,3 @@
-##React Burger App
+## React Burger App
 
 Burger Builder
