@@ -1,3 +1,3 @@
 ## React Burger App
 
-Burger Builder
+Burger Builder app made following a Udemy course
